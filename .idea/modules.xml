@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VelocityDemo.iml" filepath="$PROJECT_DIR$/VelocityDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VelocityDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VelocityDemo_main.iml" group="VelocityDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VelocityDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VelocityDemo_test.iml" group="VelocityDemo" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc/springmvc.iml" filepath="$PROJECT_DIR$/springmvc/springmvc.iml" />
+    </modules>
+  </component>
+</project>
